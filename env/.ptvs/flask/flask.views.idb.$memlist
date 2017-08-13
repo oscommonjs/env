@@ -1,6 +1,5 @@
-MethodViewType
-request
-http_method_funcs
-View
-with_metaclass
 MethodView
+View
+http_method_funcs
+request
+MethodViewType
