@@ -1,0 +1,7 @@
+test_azure_blobs
+test_s3
+test_cloudfiles
+test_local
+test_google_storage
+test_base
+test_atmos

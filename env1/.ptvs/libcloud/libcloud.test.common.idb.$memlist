@@ -1,0 +1,10 @@
+test_gandi
+test_digitalocean_v1
+test_aws
+test_openstack
+test_digitalocean_v2
+test_runabove
+test_google
+test_cloudstack
+test_retry_limit
+test_openstack_identity

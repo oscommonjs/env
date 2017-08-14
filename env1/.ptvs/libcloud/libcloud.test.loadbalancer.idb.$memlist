@@ -1,0 +1,9 @@
+test_brightbox
+test_cloudstack
+test_softlayer
+test_dimensiondata
+test_gogrid
+test_ninefold
+test_rackspace
+test_gce
+test_elb

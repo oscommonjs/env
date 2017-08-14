@@ -1,0 +1,10 @@
+BaseAuroraObjectsStorageDriver
+BaseAuroraObjectsConnection
+__all__
+BaseS3StorageDriver
+Provider
+AuroraObjectsStorageDriver
+BaseS3Connection
+LibcloudError
+AURORA_OBJECTS_EU_HOST
+NO_CDN_SUPPORT_ERROR

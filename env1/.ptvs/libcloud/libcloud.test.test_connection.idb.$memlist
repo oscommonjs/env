@@ -1,0 +1,15 @@
+BaseConnectionClassTestCase
+patch
+os
+socket
+retry
+LoggingConnection
+call
+ConnectionClassTestCase
+ssl
+Mock
+Connection
+LibcloudBaseConnection
+LibcloudHTTPConnection
+sys
+unittest

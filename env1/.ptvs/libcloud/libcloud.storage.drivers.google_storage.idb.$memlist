@@ -1,0 +1,13 @@
+GoogleStorageDriver
+copy
+API_VERSION
+S3RawResponse
+BaseS3StorageDriver
+GoogleAuthType
+S3Response
+email
+BaseS3Connection
+NAMESPACE
+GoogleBaseConnection
+GoogleStorageConnection
+SIGNATURE_IDENTIFIER

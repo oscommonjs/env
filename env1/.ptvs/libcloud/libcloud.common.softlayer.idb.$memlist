@@ -1,0 +1,9 @@
+XMLRPCConnection
+SoftLayerResponse
+SoftLayerObjectDoesntExist
+InvalidCredsError
+SoftLayerException
+XMLRPCResponse
+LibcloudError
+SoftLayerConnection
+ConnectionUserAndKey

@@ -1,0 +1,6 @@
+CloudStackCommonTestCase
+unittest
+AuroraComputeNodeDriver
+sys
+AuroraComputeNodeDriverTestCase
+AuroraComputeRegion

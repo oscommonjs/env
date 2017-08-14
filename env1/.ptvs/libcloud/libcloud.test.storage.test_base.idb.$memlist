@@ -1,0 +1,12 @@
+StringIO
+PY3
+StorageMockHttp
+b
+hashlib
+DEFAULT_CONTENT_TYPE
+Mock
+StorageDriver
+BaseStorageTests
+unittest
+sys
+file

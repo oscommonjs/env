@@ -1,0 +1,6 @@
+libcloud
+PRICING_FILE_PATH
+unittest
+PricingTestCase
+sys
+os

@@ -1,0 +1,9 @@
+patch
+os
+LibcloudHTTPSConnection
+ORIGINAL_CA_CERS_PATH
+TestHttpLibSSLTests
+libcloud
+reload
+sys
+unittest

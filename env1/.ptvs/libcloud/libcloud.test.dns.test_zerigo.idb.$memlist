@@ -1,0 +1,15 @@
+MockHttp
+DNSFileFixtures
+RecordDoesNotExistError
+RecordType
+InvalidCredsError
+ZerigoTests
+httplib
+ZerigoError
+ZerigoMockHttp
+LibcloudError
+ZoneDoesNotExistError
+ZerigoDNSDriver
+DNS_PARAMS_ZERIGO
+sys
+unittest

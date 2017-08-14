@@ -1,0 +1,12 @@
+CHUNK_SIZE
+os
+PY3
+exhaust_iterator
+httplib
+guess_file_mime_type
+mimetypes
+next
+read_in_chunks
+__all__
+b
+file

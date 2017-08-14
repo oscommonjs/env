@@ -1,0 +1,9 @@
+MockHttp
+NephoscaleMockHttp
+httplib
+TestCaseMixin
+ComputeFileFixtures
+NephoscaleNodeDriver
+NephoScaleTest
+sys
+unittest

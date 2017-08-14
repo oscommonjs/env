@@ -1,0 +1,9 @@
+get_driver
+set_driver
+DRIVERS
+Provider
+OLD_CONSTANT_TO_NEW_MAPPING
+_set_provider_driver
+__all__
+_get_provider_driver
+DEPRECATED_RACKSPACE_PROVIDERS
