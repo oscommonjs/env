@@ -53,7 +53,6 @@ gmtime
 _unsafe_header_chars
 _cookie_charset
 _etag_re
-_unquote
 CharsetAccept
 _accept_re
 is_hop_by_hop_header

@@ -1,0 +1,11 @@
+ResourceNotExistsError
+copy
+Config
+os
+UnknownAPIVersionError
+UnknownServiceError
+ResourceFactory
+DataNotFoundError
+Session
+botocore
+boto3

@@ -1,0 +1,17 @@
+EntityProperty
+models
+EdmType
+TableBatch
+_serialization
+Entity
+TableService
+_request
+TablePermissions
+_deserialization
+AzureBatchOperationError
+AzureBatchValidationError
+_error
+tableservice
+TablePayloadFormat
+Table
+tablebatch

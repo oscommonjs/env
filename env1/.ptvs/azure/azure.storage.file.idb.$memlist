@@ -1,0 +1,17 @@
+models
+Share
+FilePermissions
+fileservice
+ShareProperties
+_chunking
+_serialization
+FileRange
+File
+FileService
+CopyProperties
+DirectoryProperties
+ContentSettings
+_deserialization
+FileProperties
+Directory
+SharePermissions

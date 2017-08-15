@@ -6,7 +6,6 @@ test_upper
 test_callable
 TESTS
 re
-test_lessthan
 test_sameas
 test_lower
 integer_types
@@ -14,7 +13,6 @@ test_none
 string_types
 test_undefined
 test_string
-test_greaterthan
 Undefined
 test_number
 decimal

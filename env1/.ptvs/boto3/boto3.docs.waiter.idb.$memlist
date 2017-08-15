@@ -1,0 +1,8 @@
+add_resource_type_overview
+xform_name
+WaiterResourceDocumenter
+get_resource_ignore_params
+document_model_driven_method
+document_resource_waiter
+get_service_module_name
+BaseDocumenter

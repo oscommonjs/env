@@ -17,7 +17,7 @@ Aborter
 MethodNotAllowed
 integer_types
 HTTPException
-Locked
+RequestTimeout
 BadRequest
 abort
 GatewayTimeout
@@ -27,7 +27,6 @@ ExpectationFailed
 implements_to_string
 HTTPVersionNotSupported
 UnsupportedMediaType
-UnavailableForLegalReasons
 ServiceUnavailable
 NotAcceptable
 PreconditionFailed
@@ -39,10 +38,8 @@ BadRequestKeyError
 ClientDisconnected
 InternalServerError
 RequestEntityTooLarge
-_aborter
 Forbidden
 Response
-RequestTimeout
 NotFound
 iteritems
 default_exceptions

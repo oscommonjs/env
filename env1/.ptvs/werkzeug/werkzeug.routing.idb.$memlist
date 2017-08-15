@@ -24,11 +24,11 @@ ImmutableDict
 MultiDict
 Submount
 format_string
-cached_property
+RequestAliasRedirect
 url_encode
-itervalues
+_PYTHON_CONSTANTS
 implements_to_string
-_pythonize
+re
 text_type
 NumberConverter
 Lock
@@ -53,8 +53,7 @@ NotFound
 iteritems
 difflib
 _encode_idna
-RequestAliasRedirect
 EndpointPrefix
 RuleFactory
-_PYTHON_CONSTANTS
-re
+itervalues
+_pythonize

@@ -1,0 +1,13 @@
+DynanmoDBOperationNotSupportedError
+DynamoDBNeedsConditionError
+NoVersionFound
+RetriesExceededError
+Boto3Error
+S3TransferFailedError
+DynamoDBNeedsKeyConditionError
+ResourceNotExistsError
+DynamoDBOperationNotSupportedError
+S3UploadFailedError
+botocore
+UnknownAPIVersionError
+ResourceLoadException

@@ -6,7 +6,6 @@ get_query_string
 to_unicode
 string_types
 url_parse
-BytesIO
 is_resource_modified
 extract_path_info
 url_quote
@@ -16,7 +15,6 @@ FileWrapper
 ClosingIterator
 pop_path_info
 PY2
-_RangeWrapper
 adler32
 DispatcherMiddleware
 get_current_url

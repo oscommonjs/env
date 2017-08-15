@@ -1,6 +1,6 @@
 TracebackType
 _init_ugly_crap
-get_jinja_locals
+fake_exc_info
 reraise
 iteritems
 internal_code
@@ -12,7 +12,6 @@ sys
 raise_helper
 missing
 tb_set_next
-fake_exc_info
 PY2
 translate_syntax_error
 traceback

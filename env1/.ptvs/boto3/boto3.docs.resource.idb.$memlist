@@ -1,0 +1,16 @@
+ActionDocumenter
+document_reference
+WaiterResourceDocumenter
+get_identifier_args_for_signature
+SubResourceDocumenter
+get_identifier_values_for_example
+add_resource_type_overview
+ResourceDocumenter
+get_official_service_name
+document_attribute
+get_identifier_description
+ServiceResourceDocumenter
+document_identifier
+CollectionDocumenter
+xform_name
+BaseDocumenter

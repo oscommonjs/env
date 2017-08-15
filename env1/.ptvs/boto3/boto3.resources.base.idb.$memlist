@@ -1,0 +1,5 @@
+boto3
+ServiceResource
+logger
+logging
+ResourceMeta

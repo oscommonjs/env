@@ -2,7 +2,7 @@ EnvironHeaders
 parse_if_range_header
 LanguageAccept
 get_host
-cached_property
+CharsetAccept
 url_decode
 parse_range_header
 RequestCacheControl
@@ -33,9 +33,7 @@ parse_cache_control_header
 timedelta
 _iter_encoded
 parse_www_authenticate_header
-iter_multi_items
 dump_options_header
-ETagRequestMixin
 parse_date
 ClosingIterator
 CombinedMultiDict
@@ -43,7 +41,7 @@ integer_types
 http_date
 parse_cookie
 _assert_not_shallow
-CharsetAccept
+cached_property
 url_join
 get_input_stream
 Response
@@ -78,9 +76,9 @@ parse_set_header
 HTTP_STATUS_CODES
 update_wrapper
 BaseRequest
-_clean_accept_ranges
+iter_multi_items
 get_current_url
 WWWAuthenticateMixin
 datetime
 string_types
-_RangeWrapper
+ETagRequestMixin

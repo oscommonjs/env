@@ -1,0 +1,11 @@
+add_resource_type_overview
+get_identifier_description
+six
+is_resource_action
+inspect
+get_resource_ignore_params
+DocumentModifiedShape
+get_identifier_args_for_signature
+get_identifier_values_for_example
+get_resource_public_actions
+jmespath

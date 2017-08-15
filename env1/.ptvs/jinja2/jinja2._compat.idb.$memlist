@@ -20,6 +20,7 @@ BytesIO
 NativeStringIO
 text_type
 integer_types
+get_next
 itervalues
 with_metaclass
 encode_filename

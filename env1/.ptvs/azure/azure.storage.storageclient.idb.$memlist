@@ -1,0 +1,14 @@
+_update_request
+copy
+requests
+os
+_USER_AGENT_STRING
+_SOCKET_TIMEOUT
+_ERROR_STORAGE_MISSING_INFO
+HTTPError
+_HTTPClient
+_storage_error_handler
+AzureException
+sys
+ABCMeta
+StorageClient

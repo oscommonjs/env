@@ -1,3 +1,4 @@
-package
-mod
+absolute_import
+urllib3
 sys
+chardet

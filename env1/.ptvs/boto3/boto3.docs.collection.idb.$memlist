@@ -1,0 +1,11 @@
+add_resource_type_overview
+xform_name
+document_collection_method
+DocumentedShape
+BaseDocumenter
+CollectionDocumenter
+document_batch_action
+document_model_driven_resource_method
+document_collection_object
+get_resource_ignore_params
+get_instance_public_methods
