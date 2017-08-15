@@ -1,0 +1,8 @@
+€}qUmembersq}q(U__file__q}q(UkindqUdataqUvalueq}q	Utypeq
+]qU__builtin__qUstr†qasuU__package__q}q(hhh}qh
+]qhUNoneType†qasuUnewq}q(hUfunctionqh}q(U	overloadsq]q}q(UdocqU¯: Return a new _SHA384 hashing object.  An optional string argument may be provided; if present, this string will be automatically hashed into the initial state of the object.Uargsq}q(Udefault_valueqUNoneqUnameqUstringu…uahU¼new([string]): Return a new _SHA384 hashing object.  An optional string argument may be provided; if present, this string will be automatically hashed into the initial state of the object.uuU__name__q }q!(hhh}q"h
+]q#hasuU
+block_sizeq$}q%(hhh}q&h
+]q'hUint†q(asuU__doc__q)}q*(hhh}q+h
+]q,hasuUdigest_sizeq-}q.(hhh}q/h
+]q0h(asuus.

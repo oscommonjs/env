@@ -1,0 +1,14 @@
+True
+isinstance
+AssertionError
+False
+int
+long
+ValueError
+len
+object
+__revision__
+NotImplementedError
+TypeError
+sys
+BaseRNG

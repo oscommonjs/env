@@ -1,0 +1,11 @@
+€}qUmembersq}q(Ustrxor_cq}q(UkindqUfunctionqUvalueq}q	(U	overloadsq
+]q}q(Uret_typeq]qU__builtin__qUstr†qaUdocqU/Return s XOR chr(c).  c must be in range(256).
+Uargsq}qUnameqUss}qhUcs†uahUNstrxor_c(s:str, c:int) -> str
+
+Return s XOR chr(c).  c must be in range(256).
+uuU__file__q}q(hUdataqh}qUtypeq]qhasuU__package__q}q(hhh}qh]qhUNoneType†q asuU__name__q!}q"(hhh}q#h]q$hasuUstrxorq%}q&(hhh}q'(h
+]q(}q)(h]q*hahU9Return a XOR b.  Both a and b must have the same length.
+h}q+hUas}q,hUbs†uahUVstrxor(a:str, b:str) -> str
+
+Return a XOR b.  Both a and b must have the same length.
+uuU__doc__q-}q.(hhh}q/h]q0h asuus.
